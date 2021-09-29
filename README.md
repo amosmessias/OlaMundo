@@ -12,4 +12,8 @@ Posso misturar **_~~configurações~~_**
 
 Lista numerada:
 1. Teste
-   2. Teste 2
+   1. subitem teste
+   2. subitem teste 2
+
+* Lista de atividades
+   * sub
